@@ -45,4 +45,4 @@ Additional analysis should include:
 
 - An analysis of inclement weather and the amount of riders.
 
-- Ana analysis of riders during the different seasons.
+- An analysis of riders during the different seasons.
